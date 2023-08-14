@@ -4,7 +4,7 @@
 
 🔵🟡🔴🟢🟠
   <br /><br /><img src="https://badges.pufler.dev/visits/Drishty06/Drishty06">
-<h3> 🟠Pursuing Electronics and Communication Engineering - 3rd Year.</h3><br />
+<h3> 🟠Pursuing Electronics and Communication Engineering - 4th Year.</h3><br />
 <p>🎓 I'm a lighting speed learner 🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies and networks out there😎.</p>
 <p align="left">
 <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
